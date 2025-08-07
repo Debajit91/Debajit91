@@ -1,4 +1,6 @@
-![banner](./Banner.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/12345678/Banner.png" alt="Debajit Roy Banner" />
+</p>
 # 👋 Hi, I'm Debajit Roy
 
 🚀 Frontend Developer | React Enthusiast 
