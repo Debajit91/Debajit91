@@ -52,12 +52,8 @@
 ---
 
 
-## 👨‍💻 Overview
+## 👨‍💻 Current Overview
 
-Hi! I'm **Debajit Roy**, a passionate and detail-oriented **Frontend Developer** from Bangladesh 🇧🇩.  
-I enjoy building interactive, user-friendly, and performance-optimized web applications using modern technologies.
-
----
 
 ### 🚀 I'm Currently:
 - 🧠 **Exploring:** NextJs, Framer Motion
@@ -66,10 +62,10 @@ I enjoy building interactive, user-friendly, and performance-optimized web appli
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Debajit91&theme=flat&row=1&margin-w=10&no-bg=true&no-frame=true" />
+  <img src="https://github.com/Debajit91/Debajit91/blob/main/profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details Card" />
 </p>
 
 
