@@ -1,3 +1,4 @@
+![banner](./Banner.png)
 # 👋 Hi, I'm Debajit Roy
 
 🚀 Frontend Developer | React Enthusiast 
