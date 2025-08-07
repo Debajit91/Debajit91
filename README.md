@@ -62,7 +62,7 @@
 
 ---
 
-## 🏆 
+## 🏆 Profile Summary
 
 <p align="center">
   <img src="https://github.com/Debajit91/Debajit91/blob/main/profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details Card" />
