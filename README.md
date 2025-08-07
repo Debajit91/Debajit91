@@ -1,6 +1,14 @@
 <p align="center">
   <img width="1200" height="400" alt="Image" src="https://github.com/user-attachments/assets/b8f96a45-e755-496a-8247-3ff8f33c5eec" />
 </p>
+
+## 📈 Current Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Debajit91&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Debajit91&layout=compact)
+
+---
 # 👋 Hi, I'm Debajit Roy
 
 🚀 Frontend Developer | React Enthusiast 
