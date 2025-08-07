@@ -10,13 +10,7 @@
 </p>
 ---
 
-## 📅 GitHub Contribution Graph
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/Debajit91" alt="Debajit's GitHub chart" />
-</p>
-
----
 ## 📬 Reach Me Out
 
 <p align="center">
@@ -80,12 +74,5 @@ A full stack room-rent app
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Debajit91&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Debajit91&layout=compact)
-
----
 
 > 🚀 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
