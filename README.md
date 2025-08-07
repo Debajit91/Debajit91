@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/12345678/Banner.png" alt="Debajit Roy Banner" />
+  <img width="2560" height="1440" alt="Image" src="https://github.com/user-attachments/assets/b8f96a45-e755-496a-8247-3ff8f33c5eec" />
 </p>
 # 👋 Hi, I'm Debajit Roy
 
