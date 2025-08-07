@@ -2,11 +2,20 @@
   <img width="1200" height="400" alt="Image" src="https://github.com/user-attachments/assets/b8f96a45-e755-496a-8247-3ff8f33c5eec" />
 </p>
 
-## 📈 Current Stats
+## 📊 Current Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Debajit91&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Debajit91&show_icons=true&theme=radical" alt="Debajit's GitHub Stats" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Debajit91&layout=compact)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Debajit91&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debajit91&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 
 ---
 # 👋 Hi, I'm Debajit Roy
