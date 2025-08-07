@@ -2,7 +2,9 @@ name: GitHub Profile Summary Cards
 
 on:
   schedule:
-    - cron: "0 0 * * 0" # Runs every Sunday
+    - cron: "0 0 * * *" # every day 00:00 UTC
+  push:
+    branches: ["main"]
   workflow_dispatch:
 
 jobs:
@@ -10,8 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-summary-cards
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: Debajit91
-          UTC_OFFSET: 6
