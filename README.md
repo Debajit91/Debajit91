@@ -7,9 +7,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Debajit91&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debajit91&layout=compact&theme=tokyonight" height="165" />
 </p>
+---
 
+## 📅 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/Debajit91" alt="Debajit's GitHub chart" />
+</p>
 
 ---
 # 👋 Hi, I'm Debajit Roy
