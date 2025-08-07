@@ -52,23 +52,26 @@
 ---
 
 
-# 👋 Hi, I'm Debajit Roy
+## 👨‍💻 Overview
 
-🚀 Frontend Developer | React Enthusiast 
-
-🌱 Currently working on: Ahar Bondhu (Community Food Sharing App)\
-🎯 Goals: Improving performance optimization in React apps\
-📫 How to reach me: debajitroy544@gmail.com
+Hi! I'm **Debajit Roy**, a passionate and detail-oriented **Frontend Developer** from Bangladesh 🇧🇩.  
+I enjoy building interactive, user-friendly, and performance-optimized web applications using modern technologies.
 
 ---
 
-## 🛠 Tech Stack
+### 🚀 I'm Currently:
+- 🧠 **Exploring:** NextJs, Framer Motion
+- 🤝 **Looking for:** Internship/Junior Frontend Developer roles to grow and contribute
+- 🔧 **Trying to:** Build full-stack MERN apps and contribute to open-source community projects
 
-- 💻 HTML5 | CSS3 | JavaScript (ES6+)
-- ⚛️ React.js | Tailwind CSS | React Hook Form
-- 📦 Firebase | MongoDB | Express.js
-- 🌐 REST API | Axios
-- 🧪 Git | GitHub | VS Code
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Debajit91&theme=flat&row=1&margin-w=10&no-bg=true&no-frame=true" />
+</p>
+
 
 ---
 
