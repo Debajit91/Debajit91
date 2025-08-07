@@ -5,8 +5,8 @@
 ## 📊 Current Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Debajit91&show_icons=true&theme=tokyonight" alt="Debajit's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debajit91&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Debajit91&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debajit91&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 
