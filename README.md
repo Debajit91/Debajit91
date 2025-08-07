@@ -65,7 +65,9 @@
 ## 🏆 Profile Summary
 
 <p align="center">
-  <img src="https://github.com/Debajit91/Debajit91/blob/main/profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details Card" />
+  <img src="https://raw.githubusercontent.com/Debajit91/Debajit91/main/profile-summary-card-output/github/0-profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/Debajit91/Debajit91/main/profile-summary-card-output/github/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/Debajit91/Debajit91/main/profile-summary-card-output/github/2-most-commit-language.svg" />
 </p>
 
 
