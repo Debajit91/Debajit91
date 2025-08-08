@@ -5,9 +5,14 @@
 ---
 
 ### About Me
+<p align="center>
+  Hi! I'm **Debajit Roy**, a passionate and detail-oriented **Frontend Developer** from Bangladesh 🇧🇩. 
+</p>
 
-Hi! I'm **Debajit Roy**, a passionate and detail-oriented **Frontend Developer** from Bangladesh 🇧🇩.  
+<p align="center>
 I enjoy building interactive, user-friendly, and performance-optimized web applications using modern technologies.
+</p>
+
 
 
 ---
