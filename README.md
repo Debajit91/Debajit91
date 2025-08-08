@@ -10,6 +10,10 @@ Hi! I'm **Debajit Roy**, a passionate and detail-oriented **Frontend Developer**
 I enjoy building interactive, user-friendly, and performance-optimized web applications using modern technologies.
 </p>
 
+### 🔥 What I Love:
+- Crafting clean & responsive UIs
+- Learning and working with **React**, **Tailwind CSS**, and **JavaScript**
+- Solving real-world problems through code
 
 
 ---
