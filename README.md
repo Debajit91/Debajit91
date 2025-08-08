@@ -10,6 +10,12 @@
 </p>
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Debajit91&theme=flat&row=1&margin-w=10&no-bg=true&no-frame=true" />
+</p>
+---
 
 ## 📬 Reach Me Out
 
