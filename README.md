@@ -3,6 +3,12 @@
 </p>
 
 ---
+
+### About Me
+
+Hi! I'm **Debajit Roy**, a passionate and detail-oriented **Frontend Developer** from Bangladesh 🇧🇩.
+
+---
 ## 📊 Current Stats
 
 <p align="center">
