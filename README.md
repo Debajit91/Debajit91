@@ -20,7 +20,9 @@ I enjoy building interactive, user-friendly, and performance-optimized web appli
 ---
 
 ## 📊 My GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Debajit91&theme=tokyonight)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Debajit91)](https://git.io/streak-stats)
+
 
 ---
 
