@@ -9,6 +9,7 @@
 Hi! I'm **Debajit Roy**, a passionate and detail-oriented **Frontend Developer** from Bangladesh 🇧🇩.  
 I enjoy building interactive, user-friendly, and performance-optimized web applications using modern technologies.
 
+
 ---
 ## 📊 Current Stats
 
@@ -81,6 +82,12 @@ A full stack room-rent app
 - React, Tailwind, Firebase Auth, Node.js, Express.js, MongoDB
 - [Live Site](https://buildnest-d8c3f.web.app)
 - [GitHub Repo](https://github.com/Debajit91/build-nest)
+
+---
+
+## Contact Me
+- Email: debajitroy544@gmail.com
+- WhatsApp: +8801783388518
 
 ---
 
