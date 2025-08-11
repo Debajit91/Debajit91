@@ -80,11 +80,12 @@ I enjoy building interactive, user-friendly, and performance-optimized web appli
 
 ### 🌐 Ahar Bondhu - Food Sharing Web App
 A community platform to share surplus food.
+<img src="./Screenshot%202025-08-10%20231319.png" alt="Ahar Bondhu Screenshot" width="800">
 - React, Tailwind, Firebase Auth, Node.js, Express.js, MongoDB
 - [Live Site](https://aharbondhu.web.app)
 - [GitHub Repo](https://github.com/Debajit91/aharbondhu)
 
-<img src="./Screenshot%202025-08-10%20231319.png" alt="Ahar Bondhu Screenshot" width="800">
+
 
 ### 📝 BuildNest - Rent Management System
 A full stack room-rent app
