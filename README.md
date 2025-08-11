@@ -97,7 +97,7 @@ A full-stack room rent management app.
 
 **Tech Stack:** React, Tailwind CSS, Firebase Auth, Node.js, Express.js, MongoDB  
 
-[![BuildNest Screenshot](Screenshot%202025-08-08%20142556.png)](https://buildnest-d8c3f.web.app)  
+[![BuildNest Screenshot](Screenshot%202025-08-08%20142556.png)]((https://buildnest-d8c3f.web.app))  
 
 🔗 **Links:**  
 - [🌐 Live Site](https://buildnest-d8c3f.web.app)  
