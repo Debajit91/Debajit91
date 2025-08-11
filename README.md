@@ -85,7 +85,9 @@ A community platform to share surplus food.
 
 **Tech Stack:** React, Tailwind CSS, Firebase Auth, Node.js, Express.js, MongoDB  
 
-[![Ahar Bondhu Screenshot](./Screenshot%202025-08-10%20231319.png)](https://aharbondhu.web.app)  
+<a href="https://aharbondhu.web.app" target="_blank">
+  <img src="./Screenshot%202025-08-10%20231319.png" alt="Ahar Bondhu Screenshot" width="600"/>
+</a>  
 
 🔗 **Links:**  
 [🌐 Live Site](https://aharbondhu.web.app) | [💻 GitHub Repo](https://github.com/Debajit91/aharbondhu)  
@@ -97,14 +99,14 @@ A full-stack room rent management app.
 
 **Tech Stack:** React, Tailwind CSS, Firebase Auth, Node.js, Express.js, MongoDB  
 
-[![BuildNest Screenshot](./Screenshot%202025-08-08%20142556.png)](https://buildnest-d8c3f.web.app)  
+<a href="https://buildnest-d8c3f.web.app" target="_blank">
+  <img src="./Screenshot%202025-08-08%20142556.png" alt="BuildNest Screenshot" width="600"/>
+</a>  
 
 🔗 **Links:**  
 [🌐 Live Site](https://buildnest-d8c3f.web.app) | [💻 GitHub Repo](https://github.com/Debajit91/build-nest)  
 
-</div>  
-
-
+</div>
 
 ---
 
