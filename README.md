@@ -90,7 +90,7 @@ A community platform to share surplus food.
 
 
 ### 📝 BuildNest - Rent Management System
-A full stack room-rent app
+A full stack room-rent app.
 <img src="./Screenshot%202025-08-08%20142556.png" alt="Build Nest Screenshot" width="800">
 - React, Tailwind, Firebase Auth, Node.js, Express.js, MongoDB
 - [Live Site](https://buildnest-d8c3f.web.app)
