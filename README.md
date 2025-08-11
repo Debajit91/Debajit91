@@ -78,23 +78,31 @@ I enjoy building interactive, user-friendly, and performance-optimized web appli
 
 ## 📂 Featured Projects
 
-### 🌐 Ahar Bondhu - Food Sharing Web App
-A community platform to share surplus food.
-<img src="./Screenshot%202025-08-10%20231319.png" alt="Ahar Bondhu Screenshot" width="800">
-- React, Tailwind, Firebase Auth, Node.js, Express.js, MongoDB
-- [Live Site](https://aharbondhu.web.app)
-- [GitHub Repo](https://github.com/Debajit91/aharbondhu)
+## 🍽 Ahar Bondhu - Food Sharing Web App  
+A community platform to share surplus food.  
+
+**Tech Stack:** React, Tailwind CSS, Firebase Auth, Node.js, Express.js, MongoDB  
+
+[![Ahar Bondhu Screenshot](./Screenshot%202025-08-10%20231319.png)]((https://aharbondhu.web.app))  
+
+🔗 **Links:**  
+- [🌐 Live Site]((https://aharbondhu.web.app))  
+- [💻 GitHub Repo](https://github.com/Debajit91/aharbondhu)  
 
 
+---
 
+## 🏠 BuildNest - Rent Management System  
+A full-stack room rent management app.  
 
+**Tech Stack:** React, Tailwind CSS, Firebase Auth, Node.js, Express.js, MongoDB  
 
-### 📝 BuildNest - Rent Management System
-A full stack room-rent app.
-<img src="./Screenshot%202025-08-08%20142556.png" alt="Build Nest Screenshot" width="800">
-- React, Tailwind, Firebase Auth, Node.js, Express.js, MongoDB
-- [Live Site](https://buildnest-d8c3f.web.app)
-- [GitHub Repo](https://github.com/Debajit91/build-nest)
+[![BuildNest Screenshot](Screenshot%202025-08-08%20142556.png)](https://buildnest-d8c3f.web.app)  
+
+🔗 **Links:**  
+- [🌐 Live Site](https://buildnest-d8c3f.web.app)  
+- [💻 GitHub Repo](https://github.com/Debajit91/build-nest)  
+
 
 
 ---
