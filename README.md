@@ -83,7 +83,8 @@ A community platform to share surplus food.
 - React, Tailwind, Firebase Auth, Node.js, Express.js, MongoDB
 - [Live Site](https://aharbondhu.web.app)
 - [GitHub Repo](https://github.com/Debajit91/aharbondhu)
-- (./Screenshot 2025-08-08 150021.png)
+
+<img src="./Screenshot%202025-08-08%20150021.png" alt="Ahar Bondhu Screenshot" width="800">
 
 ### 📝 BuildNest - Rent Management System
 A full stack room-rent app
