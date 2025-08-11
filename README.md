@@ -84,7 +84,7 @@ A community platform to share surplus food.
 - [Live Site](https://aharbondhu.web.app)
 - [GitHub Repo](https://github.com/Debajit91/aharbondhu)
 
-<img src="./Screenshot%202025-08-08%20150021.png" alt="Ahar Bondhu Screenshot" width="800">
+<img src="./Screenshot%2025-08-10%231319.png" alt="Ahar Bondhu Screenshot" width="800">
 
 ### 📝 BuildNest - Rent Management System
 A full stack room-rent app
