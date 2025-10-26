@@ -86,7 +86,7 @@ A community platform to share surplus food.
 **Tech Stack:** React, Tailwind CSS, Firebase Auth, Node.js, Express.js, MongoDB  
 
 <a href="https://aharbondhu.web.app" target="_blank">
-  <img src=".//aharbondhu.png" alt="Ahar Bondhu Screenshot" width="600"/>
+  <img src=".//aharbondhu.web.app.png" alt="Ahar Bondhu Screenshot" width="600"/>
 </a>  
 
 🔗 **Links:**  
